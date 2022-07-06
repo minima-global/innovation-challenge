@@ -84,7 +84,20 @@ Please visit our [Docs website](https://docs.minima.global/) to learn about the 
 
 ## How to submit
 
-## FAQs
+Before submitting, you must have entered the competition by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSdW-r1iTN2JUxaLhKZxLj4FgRnIF6yZWAXB30hj4c-vwaNuPw/viewform) before the **2nd August 2022.** Submissions without entries will NOT be valid.
+
+To complete a submission, follow the steps below:
+
+1. Upload your code to a GitHub repository (or other publicly accessible internet location)
+2. Open up an Issue for the submission using a team member's GitHub Account
+3. Complete the Issue template 
+4. Submit the Issue (one per team)
+5. Congratulations, your submission is complete!
+
+**Note:**
+- The Issue template should be strictly followed. Submissions not following the template will NOT be valid.
+- Specify appropriate project field from the checklist, please delete anything that does not matter to you.
+- Only a single issue has to be made for each individual project, multiple submissions will NOT be valid.
 
 ## Contact Us
 For all communications and queries, you can join our [Discord Server](https://discord.gg/ztnSCaAMye).
