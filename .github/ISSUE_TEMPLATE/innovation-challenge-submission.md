@@ -11,7 +11,7 @@ assignees: ''
 
 Example: *Minima DEX - The A Team*
 
-## :star2: Submission information
+## :star2: Submission Information
 
 Please provide the following:
 
@@ -32,12 +32,12 @@ Please provide the following:
 8. Upload Presentation: *Upload any relevant presentations you have created (optional)*
 
 
-## :trophy: Your Pitch
+## :trophy: Pitch
 *Please write a pitch for your project in no more than 500 words.*
 
 
-##  :round_pushpin: Any other comments regarding your submission
-*Optional*
+##  :round_pushpin: Other Comments
+*Optional - add any other comments regarding your submission*
 
 ## :heavy_check_mark: Checklist
 
