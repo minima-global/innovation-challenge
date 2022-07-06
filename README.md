@@ -2,6 +2,10 @@
 [![Minima_Innovation_Challenge_Calling all devs](https://user-images.githubusercontent.com/92978315/177553115-5a2ada7f-b7fd-46ad-9fd3-abc559ad1ccf.png)](https://innovation.minima.global/)
 
 ## About
+Come and build on [Minima](https://www.minima.global/), the world's first truly decentralized blockchain network, enabling everyone to freely connect and prosper. Minima is accountable, autonomous, inclusive, resilient, scalable, secure, uncensored and lightweight.
+
+The Minima Innovation Challenge is a month-long competition designed to find brilliant and unique applications for the protocol, outside of what has already been conceived. Now is your chance to shine!
+
 The Minima Innovation Challenge is designed to support and encourage individuals and teams to create innovative solutions using the Minima Protocol. The challenge will be split into two phases.
 
 **Phase 1: Ideation**
@@ -46,25 +50,50 @@ The submissions will be evaluated based on the following criteria.
 
 Concessions may be made if an idea is amazing, even if the deployment of it still requires extra support.
 
-**1. Innovation** – is this a novel idea?
+1. Innovation – is this a novel idea?
 
-**2. Application of Minima Protocol** – is this project utilizing Minima correctly? Does it embrace Minima’s full potential? 
+2. Application of Minima Protocol – is this project utilizing Minima correctly? Does it embrace Minima’s full potential? 
 
-**3. Market fit** – is this something that is needed on the market? Was the productization strategy presented?
+3. Market fit – is this something that is needed on the market? Was the productization strategy presented?
 
-**4. Quality of presentation** – was the pitch convincing? Does the team want to move this to the next level?
+4. Quality of presentation – was the pitch convincing? Does the team want to move this to the next level?
 
-**5. Quality of code** – is the project coded in a professional way?
+5. Quality of code – is the project coded in a professional way?
 
-**6. Roadmap** – are the next steps clear and actionable?
+6. Roadmap – are the next steps clear and actionable?
 
 ## Entry Instructions & Prizes
+To submit your application, follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSdW-r1iTN2JUxaLhKZxLj4FgRnIF6yZWAXB30hj4c-vwaNuPw/viewform) and complete the form by **2nd August 2022.**
+
+The total prize pool is USD$40,000 in Minima Token.
+
+The Top 10 teams from the Ideation Phase will receive $1,000 worth of Minima Token and will move on to the Coding Phase of the Innovation Challenge.
+
+From the Coding Phase, judges will choose the Top 5 teams that will receive an invitation to a Boot Camp organised by EdenBase at a later date.
+
+At the Boot Camp, participants will have the opportunity to access our top experts, join coding and business workshops, and co-work in the EdenBase Hub in London (or remotely if the participants are not in the UK).
+
+In addition to the prizes for the Top 10 teams, judges will award a prize pool of USD$30,000 in Minima Token.
+
+## Resources
+Please visit our [Docs website](https://docs.minima.global/) to learn about the Protocol
+
+- [Protocol documentation](https://docs.minima.global/docs/learn/networkoverview/)
+- [How to build a MiniDapp] (Coming Soon!)
+- [Minima Scripting Tutorial] (Coming Soon!)
 
 ## How to submit
-
-## Submissions
 
 ## FAQs
 
 ## Contact Us
 For all communications and queries, you can join our [Discord Server](https://discord.gg/ztnSCaAMye).
+
+
+Powered By EdenBase
+
+EdenBase is a fund, hub and ecosystem supercharging the next set of Game Changers, powered by Frontier Technologies. By building a community and ecosystem, EdenBase supports portfolio companies to deliver responsible growth and valued impact to create a better future.
+
+To learn more about EdenBase, click [here](https://edenbase.com/).
+
+© 2022 The Minima Innovation Challenge is brought to you by Minima Global Ltd, powered by EdenBase Ltd. All rights reserved.
