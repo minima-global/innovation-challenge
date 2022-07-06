@@ -16,9 +16,7 @@ Over the course of two weeks, teams will have access to educational resources an
 
 These 10 teams will then build their solutions using Minima, and provide at least a Proof of Concept (PoC) at the end of the sprint. From the projects that submitted a PoC, the top 5 will be invited to a week-long series of feedback and mentorship sessions that will provide them with further technical support and business support in developing the dApp use case and code. The judges will then choose the top 3 teams, who will be awarded a financial prize, and teams that show more long-term thinking, including ideas around how to productize their idea, will have a higher chance of winning. We can’t wait to see your submissions! And remember, on Minima, every user participates in constructing the blockchain by running a node (there is no mining). There must be no entity that is paid to construct the chain. The parts of the protocol critical for consensus must not require changes.
 
-## Rules
-
-## Topics & Criteria
+## Topics
 
 Below are the most popular topics suggested by the Minima community. 
 
@@ -98,6 +96,10 @@ To complete a submission, follow the steps below:
 - The Issue template should be strictly followed. Submissions not following the template will NOT be valid.
 - Specify appropriate project field from the checklist, please delete anything that does not matter to you.
 - Only a single issue has to be made for each individual project, multiple submissions will NOT be valid.
+
+## Rules
+
+## Code of Conduct
 
 ## Contact Us
 For all communications and queries, you can join our [Discord Server](https://discord.gg/ztnSCaAMye).
