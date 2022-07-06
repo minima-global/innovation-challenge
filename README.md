@@ -89,7 +89,7 @@ Before submitting, you must have entered the competition by completing [this for
 To complete a submission, follow the steps below:
 
 1. Upload your code to a GitHub repository (or other publicly accessible internet location)
-2. Open up an Issue for the submission using a team member's GitHub Account
+2. Open a [New Issue for your submission](https://github.com/minima-global/innovation-challenge/issues/new/choose) using a team member's GitHub Account
 3. Complete the Issue template 
 4. Submit the Issue (one per team)
 5. Congratulations, your submission is complete!
