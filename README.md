@@ -61,7 +61,7 @@ Concessions may be made if an idea is amazing, even if the deployment of it stil
 6. Roadmap – are the next steps clear and actionable?
 
 ## Entry Instructions & Prizes
-To submit your application, follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSdW-r1iTN2JUxaLhKZxLj4FgRnIF6yZWAXB30hj4c-vwaNuPw/viewform) and complete the form by **2nd August 2022.**
+To Enter the competition, follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSdW-r1iTN2JUxaLhKZxLj4FgRnIF6yZWAXB30hj4c-vwaNuPw/viewform) and complete the form by **2nd August 2022.**
 
 The total prize pool is USD$40,000 in Minima Token.
 
