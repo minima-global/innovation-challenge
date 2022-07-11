@@ -98,8 +98,13 @@ To complete a submission, follow the steps below:
 - Only a single issue has to be made for each individual project, multiple submissions will NOT be valid.
 
 ## Rules
+Please ensure you read and agree to the following rules and regulations
+https://innovation.minima.global/rules-regulations
 
-## Code of Conduct
+
+## Privacy Policy & Code of Conduct
+https://docs.minima.global/docs/minimaprivacypolicy/
+
 
 ## Contact Us
 For all communications and queries, you can join our [Discord Server](https://discord.gg/ztnSCaAMye).
