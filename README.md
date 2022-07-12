@@ -14,17 +14,15 @@ Over the course of two weeks, teams will have access to educational resources an
 
 At the end of the two weeks, teams will not need to deliver any code yet, however you will need to share a brief presentation of the idea accompanied by a written description. This includes a discussion of market fit, why the idea is uniquely suited for the Minima Protocol, and what the competitive landscape looks like.
 
-From the Ideation phase, the top 10 projects will receive USD$1000 each of Minima token and be invited to Phase 2.
+From the Ideation phase, the top 10 projects will receive $1000 each of Minima token and be invited to Phase 2.
 
 **Phase 2: Coding**
 
-If your team is chosen to progress, you will need to build your solution using Minima, and provide at least a Proof of Concept (PoC) at the end of the sprint.
+These 10 teams will then build their solutions using Minima, and provide at least a Proof of Concept (PoC) at the end of the sprint.
 
 From the projects that submitted a PoC, the top 5 will be invited to a week-long series of feedback and mentorship sessions that will provide them with further technical support and business support in developing the MiniDapp use case and code.
 
-The judges will then choose the winners and runners up. The 2 runners-up in Phase 2 will receive $5,000 in Minima tokens each. The overall winners will receive USD$20,000 in Minima Tokens. Teams that show more long-term thinking, including ideas around how to productize their idea, will have a higher chance of winning. 
-
-And remember, on Minima, every user participates in constructing the blockchain by running a node (there is no mining). There must be no entity that is paid to construct the chain. The parts of the protocol critical for consensus must not require changes.
+The judges will then choose the top 3 teams, who will be awarded a financial prize, and teams that show more long-term thinking, including ideas around how to productize their idea, will have a higher chance of winning.
 
 ## Topics
 
@@ -70,25 +68,35 @@ Concessions may be made if an idea is amazing, even if the deployment of it stil
 
 6. Roadmap – are the next steps clear and actionable?
 
-## Entry Instructions & Prizes
+Concessions may be made if an idea is amazing, even if the deployment of it still requires extra support.
+
+## Minima Prize Pool
+The total prize pool is USD $40,000 in Minima Tokens.
+
+The Top 10 teams from the Ideation Phase will receive USD $1,000 worth of Minima Tokens and will move on to the Coding Phase of the Innovation Challenge.
+
+The 2 runners-up in Phase 2 will receive USD $5,000 in Minima Tokens each.
+
+The overall winners will receive USD $20,000 in Minima Tokens.
+
+## Entry Instructions
 To Enter the competition, follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSdW-r1iTN2JUxaLhKZxLj4FgRnIF6yZWAXB30hj4c-vwaNuPw/viewform) and complete the form by **2nd August 2022.**
 
-The total prize pool is USD$40,000 in Minima Token.
+The Top 10 teams from the Ideation Phase will build their solutions using Minima, and provide at least a Proof of Concept (PoC) at the end of the sprint.
 
-The Top 10 teams from the Ideation Phase will receive $1,000 worth of Minima Token and will move on to the Coding Phase of the Innovation Challenge.
+From the projects that submitted a PoC, the top 5 will be invited to feedback and mentorship sessions that will provide them with further technical and business support in developing the dApp use case and code.
 
-From the Coding Phase, judges will choose the Top 5 teams that will receive an invitation to a Boot Camp organised by EdenBase at a later date.
-
-At the Boot Camp, participants will have the opportunity to access our top experts, join coding and business workshops, and co-work in the EdenBase Hub in London (or remotely if the participants are not in the UK).
-
-In addition to the prizes for the Top 10 teams, judges will award a prize pool of USD$30,000 in Minima Token.
+We are looking our for outstanding submissions. Teams that show more long-term thinking, including ideas around how to productize their idea, will have a higher chance of winning.
 
 ## Resources
 Please visit our [Docs website](https://docs.minima.global/) to learn about the Protocol
 
+- [Run a Node (Android)](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Android%20Installation%20%26%20MiniDapps%20Set%20Up%20(MIC).pdf)
+- [Run a Node (Desktop)](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Desktop%20Installation%20%26%20MiniDapps%20Set%20Up%20(MIC).pdf)
 - [Protocol documentation](https://docs.minima.global/docs/learn/networkoverview/)
-- [How to build a MiniDapp] (Coming Soon!)
-- [Minima Scripting Tutorial] (Coming Soon!)
+- [How to build a MiniDapp](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Minidapp%20Tutorial%20v1.0.pdf)
+- [Minima Scripting](https://docs.minima.global/docs/learn/scripting)
+- [Minima Transaction Tutorial](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Transaction_Tutorial_v0.81.pdf)
 
 ## How to submit
 
