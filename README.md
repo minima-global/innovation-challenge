@@ -10,11 +10,21 @@ The Minima Innovation Challenge is designed to support and encourage individuals
 
 **Phase 1: Ideation**
 
-Over the course of two weeks, teams will have access to educational resources and office hours with the Minima and EdenBase teams to brainstorm and ask questions. At the end of the two weeks, teams will not need to deliver any code yet, however you will need to share a brief presentation of the idea accompanied by a written description. This includes a discussion of market fit, why the idea is uniquely suited for the Minima Protocol, and what the competitive landscape looks like. From the Ideation phase, the top 10 projects will receive $1000 each of Minima token and be invited to Phase 2.
+Over the course of two weeks, teams will have access to educational resources and office hours with the Minima and EdenBase teams to brainstorm and ask questions.
+
+At the end of the two weeks, teams will not need to deliver any code yet, however you will need to share a brief presentation of the idea accompanied by a written description. This includes a discussion of market fit, why the idea is uniquely suited for the Minima Protocol, and what the competitive landscape looks like.
+
+From the Ideation phase, the top 10 projects will receive USD$1000 each of Minima token and be invited to Phase 2.
 
 **Phase 2: Coding**
 
-These 10 teams will then build their solutions using Minima, and provide at least a Proof of Concept (PoC) at the end of the sprint. From the projects that submitted a PoC, the top 5 will be invited to a week-long series of feedback and mentorship sessions that will provide them with further technical support and business support in developing the dApp use case and code. The judges will then choose the top 3 teams, who will be awarded a financial prize, and teams that show more long-term thinking, including ideas around how to productize their idea, will have a higher chance of winning. We can’t wait to see your submissions! And remember, on Minima, every user participates in constructing the blockchain by running a node (there is no mining). There must be no entity that is paid to construct the chain. The parts of the protocol critical for consensus must not require changes.
+If your team is chosen to progress, you will need to build your solution using Minima, and provide at least a Proof of Concept (PoC) at the end of the sprint.
+
+From the projects that submitted a PoC, the top 5 will be invited to a week-long series of feedback and mentorship sessions that will provide them with further technical support and business support in developing the MiniDapp use case and code.
+
+The judges will then choose the winners and runners up. The 2 runners-up in Phase 2 will receive $5,000 in Minima tokens each. The overall winners will receive USD$20,000 in Minima Tokens. Teams that show more long-term thinking, including ideas around how to productize their idea, will have a higher chance of winning. 
+
+And remember, on Minima, every user participates in constructing the blockchain by running a node (there is no mining). There must be no entity that is paid to construct the chain. The parts of the protocol critical for consensus must not require changes.
 
 ## Topics
 
