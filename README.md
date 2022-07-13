@@ -1,5 +1,5 @@
 # Minima Innovation Challenge
-[![Minima_Innovation_Challenge_Calling all devs](https://user-images.githubusercontent.com/92978315/177553115-5a2ada7f-b7fd-46ad-9fd3-abc559ad1ccf.png)](https://innovation.minima.global/)
+[![Minima_Innovation_Challenge_Calling all innovators](https://user-images.githubusercontent.com/92978315/178734996-2a801dcd-ad85-45c2-bfb1-951350e71380.png)](https://innovation.minima.global/)
 
 ## About
 Come and build on [Minima](https://www.minima.global/), the world's first truly decentralized blockchain network, enabling everyone to freely connect and prosper. Minima is accountable, autonomous, inclusive, resilient, scalable, secure, uncensored and lightweight.
@@ -141,3 +141,4 @@ EdenBase is a fund, hub and ecosystem supercharging the next set of Game Changer
 To learn more about EdenBase, click [here](https://edenbase.com/).
 
 © 2022 The Minima Innovation Challenge is brought to you by Minima Global Ltd, powered by EdenBase Ltd. All rights reserved.
+
