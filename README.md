@@ -8,12 +8,18 @@ The Minima Innovation Challenge is a month-long competition designed to find bri
 
 The Minima Innovation Challenge is designed to support and encourage individuals and teams to create innovative solutions using the Minima Protocol. The challenge will be split into two phases.
 
-1. Dates and Timings
+**Dates and Timings**
+
 Submission Period: 13/07/22 to 02/08/22
+
 Phase 1 Ideation: 18/07/22 to 05/08/22
+
 Phase 2 Coding: 09/08/22 to 30/08/22
+
 Judging/Voting Period: 31/08/22 to 06/09/22
+
 Winners Announced: 15/09/22
+
 Distribution of Prizes: Soon after “Winners Announced”.
 ‍
 Dates and timings are subject to change. All changes will be communicated to participants. 
