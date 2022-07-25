@@ -8,13 +8,24 @@ The Minima Innovation Challenge is a month-long competition designed to find bri
 
 The Minima Innovation Challenge is designed to support and encourage individuals and teams to create innovative solutions using the Minima Protocol. The challenge will be split into two phases.
 
+1. Dates and Timings
+Submission Period: 13/07/22 to 02/08/22
+Phase 1 Ideation: 18/07/22 to 05/08/22
+Phase 2 Coding: 09/08/22 to 30/08/22
+Judging/Voting Period: 31/08/22 to 06/09/22
+Winners Announced: 15/09/22
+Distribution of Prizes: Soon after “Winners Announced”.
+‍
+Dates and timings are subject to change. All changes will be communicated to participants. 
+
 **Phase 1: Ideation**
 
-Over the course of two weeks, teams will have access to educational resources and office hours with the Minima and EdenBase teams to brainstorm and ask questions.
+Over the course of three weeks, teams will have access to educational resources and office hours with the Minima and EdenBase teams to brainstorm and ask questions.
 
-At the end of the two weeks, teams will not need to deliver any code yet, however you will need to share a brief presentation of the idea accompanied by a written description. This includes a discussion of market fit, why the idea is uniquely suited for the Minima Protocol, and what the competitive landscape looks like.
+At the end of the three weeks, teams will not need to deliver any code yet, however you will need to share a brief presentation of the idea accompanied by a written description. This includes a discussion of market fit, why the idea is uniquely suited for the Minima Protocol, and what the competitive landscape looks like.
 
 From the Ideation phase, the top 10 projects will receive $1000 each of Minima token and be invited to Phase 2.
+
 
 **Phase 2: Coding**
 
