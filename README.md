@@ -124,14 +124,14 @@ To complete a submission, follow the steps below:
 Phase 1 Entries
 1. Open a [New Issue for your submission](https://github.com/minima-global/innovation-challenge/issues/new/choose) using a team member's GitHub Account
 2. Complete the Issue template, providing information required for Phase 1 
-3. Submit the Issue (one per team)
+3. Submit the Issue
 4. Congratulations, your Phase 1 submission is complete!
 
 Phase 2 Entries
 1. Upload your code to a GitHub repository (or other publicly accessible internet location)
 2. Find your Phase 1 submission issue [here](https://github.com/minima-global/innovation-challenge/issues) and edit it 
 3. Complete the Issue template, providing information required for Phase 2 
-4. Save the Issue (one per team)
+4. Save the Issue
 5. Congratulations, your Phase 2 submission is complete!
 
 **Note:**
