@@ -24,7 +24,7 @@ Example: *Minima DEX - The A Team*
 
 ## :one: Phase 1 Submission 
 
-For Phase 1, please provide the following:
+For Phase 1, please upload the following (can also be uploaded to any cloud provider or github):
 
 5. A recording of a 3-5 minute pitch presentation: *Please explain your idea, how it meets the criteria to be considered for the competition, the benefits it will bring to people and how the unique features of the Minima network can make a real difference/give an advantage to your solution*
 
