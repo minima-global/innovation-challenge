@@ -106,14 +106,13 @@ From the projects that submitted a PoC, the top 5 will be invited to feedback an
 We are looking our for outstanding submissions. Teams that show more long-term thinking, including ideas around how to productize their idea, will have a higher chance of winning.
 
 ## Resources
-Please visit our [Docs website](https://docs.minima.global/) to learn about the Protocol
 
-- [Run a Node (Android)](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Android%20Installation%20%26%20MiniDapps%20Set%20Up%20(MIC).pdf)
-- [Run a Node (Desktop)](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Desktop%20Installation%20%26%20MiniDapps%20Set%20Up%20(MIC).pdf)
-- [Protocol documentation](https://docs.minima.global/docs/learn/networkoverview/)
-- [How to build a MiniDapp](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Minidapp%20Tutorial%20v1.0.pdf)
-- [Minima Scripting](https://docs.minima.global/docs/learn/scripting)
-- [Minima Transaction Tutorial](https://github.com/minima-global/innovation-challenge/blob/main/Resources/Transaction_Tutorial_v0.81.pdf)
+Please visit the [Learn](https://docs.minima.global/docs/learn/networkoverview) section of our Docs website to learn about the Protocol
+
+Please visit the [Build](https://docs.minima.global/docs/buildonminima/startaprivatenode) section of our Docs website to learn how to:
+ - Start a private test node
+ - Write a MiniDapp
+ - Write Scripts and Smart Contracts 
 
 ## How to submit
 
