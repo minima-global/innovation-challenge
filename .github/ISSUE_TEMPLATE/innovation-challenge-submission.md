@@ -14,17 +14,18 @@ Example: *Minima DEX - The A Team*
 
 ## :pencil2: Project & Team Details
 
-1. MiniDapp/Project Name: *Provide the name of your MiniDapp/Project*
+1. MiniDapp/Project Name [required, as used in your Google Form]: *Provide the name of your MiniDapp/Project*
 
-2. MiniDapp/Project Description: *Please provide a brief description of your MiniDapp/Project*
+2. MiniDapp/Project Description [optional, if changed from your application in Google Form]: *Please provide a brief description of your MiniDapp/Project*
 
-3. Team Name: *Provide your team name*
+3. Team Name [optional, if changed from your application in Google Form]: *Provide your team name*
 
-4. Team Members: *Please list names of all team members*
+4. Team Members [optional, if changed from your application in Google Form]: *Please list names of all team members*
 
 ## :one: Phase 1 Submission 
 
-For Phase 1, please upload the following (can also be uploaded to any cloud provider or github):
+For Phase 1, please upload the following 
+(paste the link to where you uploaded e.g. other cloud provider or GitHub (if more than 100MB) or Attach files by dragging & dropping, selecting or pasting them)
 
 5. A recording of a 3-5 minute pitch presentation: *Please explain your idea, how it meets the criteria to be considered for the competition, the benefits it will bring to people and how the unique features of the Minima network can make a real difference/give an advantage to your solution*
 
