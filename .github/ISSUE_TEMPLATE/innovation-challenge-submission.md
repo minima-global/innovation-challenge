@@ -27,7 +27,7 @@ Example: *Minima DEX - The A Team*
 For Phase 1, please upload the following 
 (paste the link to where you uploaded e.g. other cloud provider or GitHub (if more than 100MB) or Attach files by dragging & dropping, selecting or pasting them)
 
-5. A recording of a 3-5 minute pitch presentation: *Please explain your idea, how it meets the criteria to be considered for the competition, the benefits it will bring to people and how the unique features of the Minima network can make a real difference/give an advantage to your solution*
+5. A whitepaper or a pitch video with a description of the idea you have that includes: your idea, how it meets the criteria to be considered for the competition, the benefits it will bring to people and how the unique features of the Minima network can make a real difference/give an advantage to your solution.
 
 6. Upload Presentation: *Upload any relevant presentations/slide decks you have created*
 
