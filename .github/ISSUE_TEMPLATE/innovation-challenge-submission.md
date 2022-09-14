@@ -41,6 +41,8 @@ For Phase 2, please update your submission, providing the following:
 
 9. Upload Demo: *Upload any demonstration videos you have created (optional)*
 
+Bonus Video (Optional): *A video to support your submission, explaining what you have achieved so far, whether you could complete what you hoped to complete within the timeframe and what the next steps would involve if you were to continue development. This is an optional activity and won't impact your submission negatively if you don't have time.*
+
 ##  :round_pushpin: Other Comments
 *Optional - add any other comments regarding your submission*
 
