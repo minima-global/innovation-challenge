@@ -23,28 +23,28 @@
 "file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/Show-publicity-dapp.mds.zip?raw=true",
   "icon":"https://github.com/minima-global/innovation-challenge/raw/main/assets/favicon.ico",
 		"name":"MDAE - Developer Dapp",
-		"description": "Minima Decentralized Advertising Ecosystem - Developer Dapp",
+		"description": "Decentralized Advertising Ecosystem Developer Dapp",
 		"version" : "1.0"
 		},
 {	
 "file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/Advertiser-Dapp.mds.zip?raw=true",
   "icon":"https://github.com/minima-global/innovation-challenge/raw/main/assets/favicon.ico",
 		"name":"MDAE - Advertiser TEST Dapp",
-		"description": "Minima Decentralized Advertising Ecosystem - Advertiser TEST Dapp",
+		"description": "Decentralized Advertising Ecosystem Advertiser Dapp",
 		"version" : "1.0"
 		},
 {	
 "file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/TRACKER-Dapp.mds.zip?raw=true",
   "icon":"https://github.com/minima-global/innovation-challenge/raw/main/assets/favicon.ico",
 		"name":"MDAE - Tracker TEST Dapp",
-		"description": "Minima Decentralized Advertising Ecosystem - Tracker TEST Dapp",
+		"description": "Decentralized Advertising Ecosystem Tracker Dapp",
 		"version" : "1.0"
 		},
 {	
 "file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/DAO-Dapp.mds.zip?raw=true",
   "icon":"https://github.com/minima-global/innovation-challenge/raw/main/assets/favicon.ico",
 		"name":"UDPOI - DAO TEST Dapp",
-		"description": "The Universal Decentralized Proof Of Identity TEST Dapp",
+		"description": "Universal Decentralized Proof Of Identity Dapp",
 		"version" : "1.0"
 		},
     	{
