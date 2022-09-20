@@ -1,7 +1,7 @@
 {
 	"name":"Minima Innovation Challenge",
 	"description":"MIC MiniDapps",
-"icon":"https://raw.githubusercontent.com/minima-global/innovation-challenge/main/assets/minimaOLMBL200pxw.svg",
+"icon":"https://github.com/minima-global/innovation-challenge/raw/main/assets/minimaOLMBL200pxw.svg",
 	"version":"1.0",
 
 	"dapps":[
@@ -9,9 +9,16 @@
 "file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/mini-payments.mds.zip?raw=true",
 "icon":"https://github.com/minima-global/innovation-challenge/blob/main/assets/minipay.png?raw=true",
 "name":"miniPay",
-"description": "Minima on and off-chain payments by QR code and NFC",
+"description": "MBor - Minima on and off-chain payments by QR code and NFC",
 "version" : "0.1"
 	},
+	{
+"file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/miniverse.mds.zip?raw=true",
+"icon":"https://github.com/minima-global/innovation-challenge/blob/main/assets/miniverse.jpg?raw=true",
+"name":"Miniverse",
+"description": "MBor - Miniverse",
+"version" : "0.1"
+	},		
 	{
 "file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/stampdv0.1.14.zip",
 "icon":"https://github.com/minima-global/innovation-challenge/blob/main/assets/stampd.ico?raw=true",
