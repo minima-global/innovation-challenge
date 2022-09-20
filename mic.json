@@ -7,7 +7,7 @@
 	"dapps":[
 	{
 "file":"https://github.com/minima-global/innovation-challenge/blob/main/minidapps/mini-payments.mds.zip?raw=true",
-"icon":"https://github.com/minima-global/innovation-challenge/blob/main/assets/minipay.ico?raw=true",
+"icon":"https://github.com/minima-global/innovation-challenge/blob/main/assets/minipay.png?raw=true",
 "name":"miniPay",
 "description": "Minima on and off-chain payments by QR code and NFC",
 "version" : "0.1"
